@@ -3,7 +3,7 @@
 val nick = developer {
     about {
         name = "Nika mgaloblishvili"
-        company = Wandio
+        company = EPAM
     }
     links {
         twitter = "@nikamgalo"
